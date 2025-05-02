@@ -53,6 +53,7 @@ The robot follows simple decision-making logic based on sensor inputs:
 
 ## Future Enhancements
 
+- Adding RSSI based human tracking using BT module
 - Integrating **AI-based tracking** for more accurate human detection
 - Using **camera vision** for facial or color-based object following
 - Adding **wireless control** or **app-based monitoring**
